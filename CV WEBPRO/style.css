@@ -1,0 +1,203 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+border:0;
+font:inherit;
+font-size:100%;
+margin:10;
+padding:0;
+vertical-align:baseline;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+display:block;
+}
+body{
+	background: white;
+}
+.the-whole {
+	width: 90%;
+	max-width: 800px;
+	height: 820px;
+	background: #1d2025;
+	margin: 30px auto;
+}
+
+.the-whole-detail {
+	padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
+	background: #1d2025;
+}
+
+.fotoq{
+	position: relative;
+	left: 0px auto;
+	bottom: 100px;
+	align-content: top;
+}
+.square{
+	height: 820px;
+	width: 200px;
+	background-color: #293948;
+	margin-top: 100px;
+	margin-left: 15px;
+	text-align: center;
+	position: relative;
+}
+.name{
+	font-family: Bebas Neue;
+	font-style: bold;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	position: relative;
+	padding-top: 0px;
+	bottom: 80px;
+}
+.job{
+	font-family: lato;
+	font-style: italic;
+	font-style: thin;
+	font-size: 13px;
+	color: white;
+	margin-top: 0px;
+	position: relative;
+	bottom: 80px;
+}
+.titik{
+	color: #80a2c5;
+	font-size: 18px;
+	position: relative;
+	bottom: 83px;
+}
+.td{
+	padding-top: 15px;
+	font-family: bebas neue;
+	color:white;
+	letter-spacing: 1px;
+	top: 295px;
+	left: 74px;
+	position: absolute;
+}
+.fd{
+	font-family: bebas neue;
+	color: #80a2c5;
+	position: absolute;
+	top: 330px;
+	left: 37px;
+	letter-spacing: 1px;
+}
+.titik2{
+	color: #80a2c5;
+	font-size: 18px;
+	position: relative;
+	top: 150px;
+}
+#ig{
+	position: relative;
+	top: 74px;
+	left: 40px;
+}
+#fb{
+	position: relative;
+	top: 110px;
+	left: 40px;
+}
+#twitter{
+	position: relative;
+	top: 170px;
+	left: -45px;
+}
+#line{
+	position: relative;
+	top: 130px;
+	left: -45px;
+}
+.titik3{
+	color: #80a2c5;
+	font-size: 18px;
+	position: relative;
+	top: 75px;
+}
+.desc{
+	top:10px;
+	size: 100px;
+}
+.titles{
+	position: relative;
+	bottom: 925px;
+	left: 270px;
+	font-style: normal;
+	font-family: bebas neue;
+	letter-spacing: 1px;
+	color:  #80a2c5;
+	font-size: 22px;
+
+}
+.ed{
+	position: relative;
+	bottom: 1730px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family:helvetica;
+	font-style: bold;
+	font-size: 17px;
+}
+.pe{
+	position: relative;
+	bottom: 1675px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 17px;
+}
+.org{
+	position: relative;
+	bottom: 1625px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 17px;
+}
+.ach{
+	position: relative;
+	bottom: 1600px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 18px;
+}
+.hob{
+	position: relative;
+	bottom: 1555px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 17px;
+}
+.ski{
+	position: relative;
+	bottom: 1522px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 17px;
+}
+.Sof{
+	position: relative;
+	bottom: 1485px;
+	left: 270px;
+	color: white;
+	letter-spacing: -0.5px;
+	font-family: helvetica;
+	font-style: thin;
+	font-size: 17px;
+}
